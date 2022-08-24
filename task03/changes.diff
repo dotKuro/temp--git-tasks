@@ -1,0 +1,11 @@
+0a1,3
+> def new_feature_1():
+>     print("This is the new feature 1")
+> 
+3a7,9
+> def new_feature_2():
+>     print("This is the new feature 2")
+> 
+6a13,14
+>     new_feature_1()
+>     new_feature_2()
